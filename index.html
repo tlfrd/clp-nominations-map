@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <link rel="stylesheet" type="text/css" href="css/map_style.css">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <!--[if lt IE 9]>
+            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <div id="left_column">
+
+            <form id="choiceform">
+                <p> 
+                    I would like boundary data for
+                    <select name="top_level"  id="top_level">
+                        <option value="sco">Scotland</option>
+                    </select>
+                    at the  
+                    <select name="lad" id="lad">
+                        <option value="national">National</option>
+                        <option disabled>──────────</option>
+                    </select>
+                    level
+                    divided into
+                    <select name="resolution" id="resolution">
+                        <option value = "spc">Scottish Parliament Constituencies</option>
+                    </select>
+                </p>
+                <p>Select a map area to view properties below</p>
+            </form>
+
+            <section id="data_table">
+            </section>
+        </div>
+        <div id="right_column">
+            <section id="map">
+            </section>
+        </div>
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.1.0/topojson.min.js"></script>
+
+        <script src="js/map.js"></script>
+        <script src="js/form.js"></script>
+
+        <script type="text/javascript">
+          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+          document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+          try {
+            var pageTracker = _gat._getTracker("UA-54344943-1");
+            pageTracker._trackPageview();
+          } catch(err) {}
+        </script>
+    </body>
+</html>
