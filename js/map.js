@@ -1,9 +1,9 @@
-
-
 // get the width of the area we're displaying in
 var width;
 // but we're using the full window height
 var height;
+
+var nominations;
 
 // variables for map drawing
 var projection, svg, path, g;
@@ -21,11 +21,14 @@ init(width, height);
 
 
 // remove any data when we lose selection of a map unit
-function deselect() {
+function deselect(id) {
     d3.selectAll(".selected")
         .attr("class", "area"); 
-    d3.select("#data_table")
-        .html("");      
+
+    if (id) {
+        var new_id = "#" + id;
+        set_colour_for_area(new_id, nominations[id]["2015 Nomination"]);
+    }
 }
 
 
@@ -72,16 +75,15 @@ function create_table(properties) {
 // select a map area
 function select(d) {
     // get the id of the selected map area
+    console.log(nominations[d.id]);
     var id = "#" + d.id;
     // remove the selected class from any other selected areas
     d3.selectAll(".selected")
         .attr("class", "area");
     // and add it to this area
-    // d3.select(id)
-    //     .attr("class", "selected area")
+    d3.select(id)
+        .attr("class", "selected area")
     // add the area properties to the data_table section
-    d3.select("#data_table")
-        .html(create_table(d.properties));
 }
 
 // draw our map on the SVG element
@@ -106,9 +108,10 @@ function draw(boundaries) {
         .enter().append("path")
         .attr("class", "area")
         .attr("id", function(d) {return d.id})
-        .attr("properties_table", function(d) { return create_table(d.properties)})
+        .attr("properties_table", function(d) {return create_table(d.properties)})
         .attr("d", path)
-        .on("click", function(d){ return select(d)});
+        .on("mouseover", function(d) {return select(d)})
+        .on("mouseout", function(d) {return deselect(d.id)});
 
     // add a boundary between areas
     g.append("path")
@@ -136,21 +139,27 @@ function colour_map() {
 
     d3.json(f, function(error, n) {
         if (error) return console.error(error);
+        nominations = n;
 
-        for (x in n) {
+        for (x in nominations) {
             var id = "#" + x;
-            var nomination_2015 = n[x]["2015 Nomination"];
-            if (nomination_2015 === "Jeremy Corbyn") {
-                d3.select(id).attr("class", "jeremy");
-            } else if (nomination_2015 === "Andy Burnham") {
-                d3.select(id).attr("class", "andy");
-            } else if (nomination_2015 === "Liz Kendall") {
-                d3.select(id).attr("class", "liz");
-            } else if (nomination_2015 === "Yvette Cooper") {
-                d3.select(id).attr("class", "yvette");
-            }
+            var nomination_2015 = nominations[x]["2015 Nomination"];
+            
+            set_colour_for_area(id, nomination_2015);
         }
     });
+}
+
+function set_colour_for_area(id, nomination) {
+    if (nomination === "Jeremy Corbyn") {
+        d3.select(id).attr("class", "jeremy");
+    } else if (nomination === "Andy Burnham") {
+        d3.select(id).attr("class", "andy");
+    } else if (nomination === "Liz Kendall") {
+        d3.select(id).attr("class", "liz");
+    } else if (nomination === "Yvette Cooper") {
+        d3.select(id).attr("class", "yvette");
+    }
 }
 
 // loads data from the given file and redraws the map
