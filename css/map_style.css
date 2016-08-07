@@ -93,3 +93,19 @@ th, td {
     stroke-dasharray: 2,2;
     stroke-linejoin: round;
 }
+
+.jeremy {
+  fill: green;
+}
+
+.andy {
+  fill: pink;
+}
+
+.yvette {
+  fill: yellow;
+}
+
+.liz {
+  fill: blue;
+}

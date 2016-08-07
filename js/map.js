@@ -77,8 +77,8 @@ function select(d) {
     d3.selectAll(".selected")
         .attr("class", "area");
     // and add it to this area
-    d3.select(id)
-        .attr("class", "selected area")
+    // d3.select(id)
+    //     .attr("class", "selected area")
     // add the area properties to the data_table section
     d3.select("#data_table")
         .html(create_table(d.properties));
@@ -115,6 +115,8 @@ function draw(boundaries) {
         .datum(topojson.mesh(boundaries, boundaries.objects[units], function(a, b){ return a !== b }))
         .attr('d', path)
         .attr('class', 'boundary');
+
+    colour_map();
 }
 
 // called to redraw the map - removes map completely and starts from scratch
@@ -127,6 +129,28 @@ function redraw(id) {
 
     init(width, height, id);
     draw(boundaries);
+}
+
+function colour_map() {
+    var f = "json/nominations/clp_nominations.json";
+
+    d3.json(f, function(error, n) {
+        if (error) return console.error(error);
+
+        for (x in n) {
+            var id = "#" + x;
+            var nomination_2015 = n[x]["2015 Nomination"];
+            if (nomination_2015 === "Jeremy Corbyn") {
+                d3.select(id).attr("class", "jeremy");
+            } else if (nomination_2015 === "Andy Burnham") {
+                d3.select(id).attr("class", "andy");
+            } else if (nomination_2015 === "Liz Kendall") {
+                d3.select(id).attr("class", "liz");
+            } else if (nomination_2015 === "Yvette Cooper") {
+                d3.select(id).attr("class", "yvette");
+            }
+        }
+    });
 }
 
 // loads data from the given file and redraws the map
