@@ -1,2586 +1,3237 @@
 {
   "W07000049": {
-    "Consituency": "Aberavon",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Aberavon",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "W07000058": {
-    "Consituency": "Aberconwy",
-    "2015 Nomination": ""
+    "consituency": "Aberconwy",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000074": {
-    "Consituency": "Aberdeen Central",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Aberdeen Central",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000075": {
-    "Consituency": "Aberdeen Donside",
-    "2015 Nomination": ""
+    "consituency": "Aberdeen Donside",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000076": {
-    "Consituency": "Aberdeen South and North Kincardine",
-    "2015 Nomination": ""
+    "consituency": "Aberdeen South and North Kincardine",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000077": {
-    "Consituency": "Aberdeenshire East",
-    "2015 Nomination": ""
+    "consituency": "Aberdeenshire East",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000078": {
-    "Consituency": "Aberdeenshire West",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Aberdeenshire West",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "S16000079": {
-    "Consituency": "Airdrie and Shotts",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Airdrie and Shotts",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000530": {
-    "Consituency": "Aldershot",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Aldershot",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000531": {
-    "Consituency": "Aldridge-Brownhills",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Aldridge-Brownhills",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000080": {
-    "Consituency": "Almond Valley",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Almond Valley",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000532": {
-    "Consituency": "Altrincham and Sale West",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Altrincham and Sale West",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "W07000043": {
-    "Consituency": "Alyn and Deeside",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Alyn and Deeside",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000533": {
-    "Consituency": "Amber Valley",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Amber Valley",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000081": {
-    "Consituency": "Angus North and Mearns",
-    "2015 Nomination": ""
+    "consituency": "Angus North and Mearns",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000082": {
-    "Consituency": "Angus South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Angus South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "W07000057": {
-    "Consituency": "Arfon",
-    "2015 Nomination": ""
+    "consituency": "Arfon",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000083": {
-    "Consituency": "Argyll and Bute",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Argyll and Bute",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000534": {
-    "Consituency": "Arundel and South Downs",
-    "2015 Nomination": ""
+    "consituency": "Arundel and South Downs",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000535": {
-    "Consituency": "Ashfield",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Ashfield",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000536": {
-    "Consituency": "Ashford",
-    "2015 Nomination": ""
+    "consituency": "Ashford",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000537": {
-    "Consituency": "Ashton-under-Lyne",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Ashton-under-Lyne",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000538": {
-    "Consituency": "Aylesbury",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Aylesbury",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000084": {
-    "Consituency": "Ayr",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Ayr",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000539": {
-    "Consituency": "Banbury",
-    "2015 Nomination": ""
+    "consituency": "Banbury",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000085": {
-    "Consituency": "Banffshire and Buchan Coast",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Banffshire and Buchan Coast",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000540": {
-    "Consituency": "Barking",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Barking",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14000541": {
-    "Consituency": "Barnsley Central",
-    "2015 Nomination": ""
+    "consituency": "Barnsley Central",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000542": {
-    "Consituency": "Barnsley East",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Barnsley East",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000543": {
-    "Consituency": "Barrow and Furness",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Barrow and Furness",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000544": {
-    "Consituency": "Basildon and Billericay",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Basildon and Billericay",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000545": {
-    "Consituency": "Basingstoke",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Basingstoke",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000546": {
-    "Consituency": "Bassetlaw",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Bassetlaw",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000547": {
-    "Consituency": "Bath",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Bath",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000548": {
-    "Consituency": "Batley and Spen",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Batley and Spen",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000549": {
-    "Consituency": "Battersea",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Battersea",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "E14000550": {
-    "Consituency": "Beaconsfield",
-    "2015 Nomination": ""
+    "consituency": "Beaconsfield",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000551": {
-    "Consituency": "Beckenham",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Beckenham",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000552": {
-    "Consituency": "Bedford",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Bedford",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000553": {
-    "Consituency": "Bermondsey and Old Southwark",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Bermondsey and Old Southwark",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": "Owen Smith"
   },
   "E14000554": {
-    "Consituency": "Berwick-upon-Tweed",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Berwick-upon-Tweed",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000555": {
-    "Consituency": "Bethnal Green and Bow",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Bethnal Green and Bow",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Owen Smith"
   },
   "E14000556": {
-    "Consituency": "Beverley and Holderness",
-    "2015 Nomination": ""
+    "consituency": "Beverley and Holderness",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000557": {
-    "Consituency": "Bexhill and Battle",
-    "2015 Nomination": ""
+    "consituency": "Bexhill and Battle",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000558": {
-    "Consituency": "Bexleyheath and Crayford",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Bexleyheath and Crayford",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000559": {
-    "Consituency": "Birkenhead",
-    "2015 Nomination": ""
+    "consituency": "Birkenhead",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000560": {
-    "Consituency": "Birmingham Edgbaston",
-    "2015 Nomination": ""
+    "consituency": "Birmingham Edgbaston",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000561": {
-    "Consituency": "Birmingham Erdington",
-    "2015 Nomination": ""
+    "consituency": "Birmingham Erdington",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000562": {
-    "Consituency": "Birmingham Hall Green",
-    "2015 Nomination": ""
+    "consituency": "Birmingham Hall Green",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000563": {
-    "Consituency": "Birmingham Hodge Hill",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Birmingham Hodge Hill",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000564": {
-    "Consituency": "Birmingham Ladywood",
-    "2015 Nomination": ""
+    "consituency": "Birmingham Ladywood",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000565": {
-    "Consituency": "Birmingham Northfield",
-    "2015 Nomination": ""
+    "consituency": "Birmingham Northfield",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000566": {
-    "Consituency": "Birmingham Perry Barr",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Birmingham Perry Barr",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000567": {
-    "Consituency": "Birmingham Selly Oak",
-    "2015 Nomination": ""
+    "consituency": "Birmingham Selly Oak",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000568": {
-    "Consituency": "Birmingham Yardley",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Birmingham Yardley",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000569": {
-    "Consituency": "Bishop Auckland",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Bishop Auckland",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000570": {
-    "Consituency": "Blackburn",
-    "2015 Nomination": ""
+    "consituency": "Blackburn",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000571": {
-    "Consituency": "Blackley and Broughton",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Blackley and Broughton",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000572": {
-    "Consituency": "Blackpool North and Cleveleys",
-    "2015 Nomination": ""
+    "consituency": "Blackpool North and Cleveleys",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000573": {
-    "Consituency": "Blackpool South",
-    "2015 Nomination": ""
+    "consituency": "Blackpool South",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000072": {
-    "Consituency": "Blaenau Gwent",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Blaenau Gwent",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Owen Smith"
   },
   "E14000574": {
-    "Consituency": "Blaydon",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Blaydon",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000575": {
-    "Consituency": "Blyth Valley",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Blyth Valley",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000576": {
-    "Consituency": "Bognor Regis and Littlehampton",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Bognor Regis and Littlehampton",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000577": {
-    "Consituency": "Bolsover",
-    "2015 Nomination": ""
+    "consituency": "Bolsover",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000578": {
-    "Consituency": "Bolton North East",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Bolton North East",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000579": {
-    "Consituency": "Bolton South East",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Bolton South East",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000580": {
-    "Consituency": "Bolton West",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Bolton West",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000581": {
-    "Consituency": "Bootle",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Bootle",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000582": {
-    "Consituency": "Boston and Skegness",
-    "2015 Nomination": ""
+    "consituency": "Boston and Skegness",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000583": {
-    "Consituency": "Bosworth",
-    "2015 Nomination": ""
+    "consituency": "Bosworth",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000584": {
-    "Consituency": "Bournemouth East",
-    "2015 Nomination": ""
+    "consituency": "Bournemouth East",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000585": {
-    "Consituency": "Bournemouth West",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Bournemouth West",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000586": {
-    "Consituency": "Bracknell",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Bracknell",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000587": {
-    "Consituency": "Bradford East",
-    "2015 Nomination": ""
+    "consituency": "Bradford East",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000588": {
-    "Consituency": "Bradford South",
-    "2015 Nomination": ""
+    "consituency": "Bradford South",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000589": {
-    "Consituency": "Bradford West",
-    "2015 Nomination": ""
+    "consituency": "Bradford West",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000590": {
-    "Consituency": "Braintree",
-    "2015 Nomination": ""
+    "consituency": "Braintree",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000068": {
-    "Consituency": "Brecon and Radnorshire",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Brecon and Radnorshire",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000591": {
-    "Consituency": "Brent Central",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Brent Central",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000592": {
-    "Consituency": "Brent North",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Brent North",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000593": {
-    "Consituency": "Brentford and Isleworth",
-    "2015 Nomination": ""
+    "consituency": "Brentford and Isleworth",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000594": {
-    "Consituency": "Brentwood and Ongar",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Brentwood and Ongar",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "W07000073": {
-    "Consituency": "Bridgend",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Bridgend",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000595": {
-    "Consituency": "Bridgwater and West Somerset",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Bridgwater and West Somerset",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000596": {
-    "Consituency": "Brigg and Goole",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Brigg and Goole",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000597": {
-    "Consituency": "Brighton Kemptown",
-    "2015 Nomination": ""
+    "consituency": "Brighton Kemptown",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000598": {
-    "Consituency": "Brighton Pavilion",
-    "2015 Nomination": ""
+    "consituency": "Brighton Pavilion",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000599": {
-    "Consituency": "Bristol East",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Bristol East",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000600": {
-    "Consituency": "Bristol North West",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Bristol North West",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000601": {
-    "Consituency": "Bristol South",
-    "2015 Nomination": ""
+    "consituency": "Bristol South",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000602": {
-    "Consituency": "Bristol West",
-    "2015 Nomination": ""
+    "consituency": "Bristol West",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000603": {
-    "Consituency": "Broadland",
-    "2015 Nomination": ""
+    "consituency": "Broadland",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000604": {
-    "Consituency": "Bromley and Chislehurst",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Bromley and Chislehurst",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000605": {
-    "Consituency": "Bromsgrove",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Bromsgrove",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000606": {
-    "Consituency": "Broxbourne",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Broxbourne",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000607": {
-    "Consituency": "Broxtowe",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Broxtowe",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000608": {
-    "Consituency": "Buckingham",
-    "2015 Nomination": ""
+    "consituency": "Buckingham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000609": {
-    "Consituency": "Burnley",
-    "2015 Nomination": ""
+    "consituency": "Burnley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000610": {
-    "Consituency": "Burton",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Burton",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000611": {
-    "Consituency": "Bury North",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Bury North",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000612": {
-    "Consituency": "Bury South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Bury South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000613": {
-    "Consituency": "Bury St Edmunds",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Bury St Edmunds",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000076": {
-    "Consituency": "Caerphilly",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Caerphilly",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "S16000086": {
-    "Consituency": "Caithness Sutherland and Ross",
-    "2015 Nomination": ""
+    "consituency": "Caithness Sutherland and Ross",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000614": {
-    "Consituency": "Calder Valley",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Calder Valley",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000615": {
-    "Consituency": "Camberwell and Peckham",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Camberwell and Peckham",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000616": {
-    "Consituency": "Camborne and Redruth",
-    "2015 Nomination": ""
+    "consituency": "Camborne and Redruth",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000617": {
-    "Consituency": "Cambridge",
-    "2015 Nomination": ""
+    "consituency": "Cambridge",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000618": {
-    "Consituency": "Cannock Chase",
-    "2015 Nomination": ""
+    "consituency": "Cannock Chase",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000619": {
-    "Consituency": "Canterbury",
-    "2015 Nomination": ""
+    "consituency": "Canterbury",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000050": {
-    "Consituency": "Cardiff Central",
-    "2015 Nomination": ""
+    "consituency": "Cardiff Central",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000051": {
-    "Consituency": "Cardiff North",
-    "2015 Nomination": ""
+    "consituency": "Cardiff North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000080": {
-    "Consituency": "Cardiff South and Penarth",
-    "2015 Nomination": ""
+    "consituency": "Cardiff South and Penarth",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000079": {
-    "Consituency": "Cardiff West",
-    "2015 Nomination": ""
+    "consituency": "Cardiff West",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000620": {
-    "Consituency": "Carlisle",
-    "2015 Nomination": ""
+    "consituency": "Carlisle",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000067": {
-    "Consituency": "Carmarthen East and Dinefwr",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Carmarthen East and Dinefwr",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "W07000066": {
-    "Consituency": "Carmarthen West and South Pembrokeshire",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Carmarthen West and South Pembrokeshire",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "S16000087": {
-    "Consituency": "Carrick, Cumnock and Doon Valley",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Carrick, Cumnock and Doon Valley",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000621": {
-    "Consituency": "Carshalton and Wallington",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Carshalton and Wallington",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000622": {
-    "Consituency": "Castle Point",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Castle Point",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000623": {
-    "Consituency": "Central Devon",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Central Devon",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000624": {
-    "Consituency": "Central Suffolk and North Ipswich",
-    "2015 Nomination": ""
+    "consituency": "Central Suffolk and North Ipswich",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000064": {
-    "Consituency": "Ceredigion",
-    "2015 Nomination": ""
+    "consituency": "Ceredigion",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000625": {
-    "Consituency": "Charnwood",
-    "2015 Nomination": ""
+    "consituency": "Charnwood",
+    "nomination_2015": "",
+    "nomination_2016": "Owen Smith"
   },
   "E14000626": {
-    "Consituency": "Chatham and Aylesford",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Chatham and Aylesford",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000627": {
-    "Consituency": "Cheadle",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Cheadle",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000628": {
-    "Consituency": "Chelmsford",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Chelmsford",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000629": {
-    "Consituency": "Chelsea and Fulham",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Chelsea and Fulham",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000630": {
-    "Consituency": "Cheltenham",
-    "2015 Nomination": ""
+    "consituency": "Cheltenham",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000631": {
-    "Consituency": "Chesham and Amersham",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Chesham and Amersham",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000632": {
-    "Consituency": "Chesterfield",
-    "2015 Nomination": ""
+    "consituency": "Chesterfield",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000633": {
-    "Consituency": "Chichester",
-    "2015 Nomination": ""
+    "consituency": "Chichester",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000634": {
-    "Consituency": "Chingford and Woodford Green",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Chingford and Woodford Green",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000635": {
-    "Consituency": "Chippenham",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Chippenham",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000636": {
-    "Consituency": "Chipping Barnet",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Chipping Barnet",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000637": {
-    "Consituency": "Chorley",
-    "2015 Nomination": ""
+    "consituency": "Chorley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000638": {
-    "Consituency": "Christchurch",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Christchurch",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000639": {
-    "Consituency": "Cities of London and Westminster",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Cities of London and Westminster",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14000640": {
-    "Consituency": "City of Chester",
-    "2015 Nomination": ""
+    "consituency": "City of Chester",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000641": {
-    "Consituency": "City of Durham",
-    "2015 Nomination": ""
+    "consituency": "City of Durham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000088": {
-    "Consituency": "Clackmannanshire and Dunblane",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Clackmannanshire and Dunblane",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000642": {
-    "Consituency": "Clacton",
-    "2015 Nomination": ""
+    "consituency": "Clacton",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000643": {
-    "Consituency": "Cleethorpes",
-    "2015 Nomination": ""
+    "consituency": "Cleethorpes",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000062": {
-    "Consituency": "Clwyd South",
-    "2015 Nomination": ""
+    "consituency": "Clwyd South",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000059": {
-    "Consituency": "Clwyd West",
-    "2015 Nomination": ""
+    "consituency": "Clwyd West",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000089": {
-    "Consituency": "Clydebank and Milngavie",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Clydebank and Milngavie",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "S16000090": {
-    "Consituency": "Clydesdale",
-    "2015 Nomination": ""
+    "consituency": "Clydesdale",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000091": {
-    "Consituency": "Coatbridge and Chryston",
-    "2015 Nomination": ""
+    "consituency": "Coatbridge and Chryston",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000644": {
-    "Consituency": "Colchester",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Colchester",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000645": {
-    "Consituency": "Colne Valley",
-    "2015 Nomination": ""
+    "consituency": "Colne Valley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000646": {
-    "Consituency": "Congleton",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Congleton",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000647": {
-    "Consituency": "Copeland",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Copeland",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000648": {
-    "Consituency": "Corby",
-    "2015 Nomination": ""
+    "consituency": "Corby",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000649": {
-    "Consituency": "Coventry North East",
-    "2015 Nomination": ""
+    "consituency": "Coventry North East",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000650": {
-    "Consituency": "Coventry North West",
-    "2015 Nomination": ""
+    "consituency": "Coventry North West",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000651": {
-    "Consituency": "Coventry South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Coventry South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "S16000092": {
-    "Consituency": "Cowdenbeath",
-    "2015 Nomination": ""
+    "consituency": "Cowdenbeath",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000652": {
-    "Consituency": "Crawley",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Crawley",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000653": {
-    "Consituency": "Crewe and Nantwich",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Crewe and Nantwich",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000654": {
-    "Consituency": "Croydon Central",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Croydon Central",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000655": {
-    "Consituency": "Croydon North",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Croydon North",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000656": {
-    "Consituency": "Croydon South",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Croydon South",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "S16000093": {
-    "Consituency": "Cumbernauld and Kilsyth",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Cumbernauld and Kilsyth",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "S16000094": {
-    "Consituency": "Cunninghame North",
-    "2015 Nomination": ""
+    "consituency": "Cunninghame North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000095": {
-    "Consituency": "Cunninghame South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Cunninghame South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000070": {
-    "Consituency": "Cynon Valley",
-    "2015 Nomination": ""
+    "consituency": "Cynon Valley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000657": {
-    "Consituency": "Dagenham and Rainham",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Dagenham and Rainham",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000658": {
-    "Consituency": "Darlington",
-    "2015 Nomination": ""
+    "consituency": "Darlington",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000659": {
-    "Consituency": "Dartford",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Dartford",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000660": {
-    "Consituency": "Daventry",
-    "2015 Nomination": ""
+    "consituency": "Daventry",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000042": {
-    "Consituency": "Delyn",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Delyn",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000661": {
-    "Consituency": "Denton and Reddish",
-    "2015 Nomination": ""
+    "consituency": "Denton and Reddish",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000662": {
-    "Consituency": "Derby North",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Derby North",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000663": {
-    "Consituency": "Derby South",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Derby South",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000664": {
-    "Consituency": "Derbyshire Dales",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Derbyshire Dales",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000665": {
-    "Consituency": "Devizes",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Devizes",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000666": {
-    "Consituency": "Dewsbury",
-    "2015 Nomination": ""
+    "consituency": "Dewsbury",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000667": {
-    "Consituency": "Don Valley",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Don Valley",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000668": {
-    "Consituency": "Doncaster Central",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Doncaster Central",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000669": {
-    "Consituency": "Doncaster North",
-    "2015 Nomination": ""
+    "consituency": "Doncaster North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000670": {
-    "Consituency": "Dover",
-    "2015 Nomination": ""
+    "consituency": "Dover",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000671": {
-    "Consituency": "Dudley North",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Dudley North",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000672": {
-    "Consituency": "Dudley South",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Dudley South",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000673": {
-    "Consituency": "Dulwich and West Norwood",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Dulwich and West Norwood",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "S16000096": {
-    "Consituency": "Dumbarton",
-    "2015 Nomination": ""
+    "consituency": "Dumbarton",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000097": {
-    "Consituency": "Dumfriesshire",
-    "2015 Nomination": ""
+    "consituency": "Dumfriesshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000098": {
-    "Consituency": "Dundee City East",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Dundee City East",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000099": {
-    "Consituency": "Dundee City West",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Dundee City West",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000100": {
-    "Consituency": "Dunfermline",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Dunfermline",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "W07000061": {
-    "Consituency": "Dwyfor Meirionnydd",
-    "2015 Nomination": ""
+    "consituency": "Dwyfor Meirionnydd",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000674": {
-    "Consituency": "Ealing Central and Acton",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Ealing Central and Acton",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000675": {
-    "Consituency": "Ealing North",
-    "2015 Nomination": ""
+    "consituency": "Ealing North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000676": {
-    "Consituency": "Ealing Southall",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Ealing Southall",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000677": {
-    "Consituency": "Easington",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Easington",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000678": {
-    "Consituency": "East Devon",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "East Devon",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000679": {
-    "Consituency": "East Ham",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "East Ham",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14000680": {
-    "Consituency": "East Hampshire",
-    "2015 Nomination": ""
+    "consituency": "East Hampshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000101": {
-    "Consituency": "East Kilbride",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "East Kilbride",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "S16000102": {
-    "Consituency": "East Lothian",
-    "2015 Nomination": ""
+    "consituency": "East Lothian",
+    "nomination_2015": "",
+    "nomination_2016": "Owen Smith"
   },
   "E14000681": {
-    "Consituency": "East Surrey",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "East Surrey",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000682": {
-    "Consituency": "East Worthing and Shoreham",
-    "2015 Nomination": ""
+    "consituency": "East Worthing and Shoreham",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000683": {
-    "Consituency": "East Yorkshire",
-    "2015 Nomination": ""
+    "consituency": "East Yorkshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000684": {
-    "Consituency": "Eastbourne",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Eastbourne",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000685": {
-    "Consituency": "Eastleigh",
-    "2015 Nomination": ""
+    "consituency": "Eastleigh",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000103": {
-    "Consituency": "Eastwood",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Eastwood",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000686": {
-    "Consituency": "Eddisbury",
-    "2015 Nomination": ""
+    "consituency": "Eddisbury",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000104": {
-    "Consituency": "Edinburgh Central",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Edinburgh Central",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000105": {
-    "Consituency": "Edinburgh Eastern",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Edinburgh Eastern",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "S16000106": {
-    "Consituency": "Edinburgh Northern and Leith",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Edinburgh Northern and Leith",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000107": {
-    "Consituency": "Edinburgh Pentlands",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Edinburgh Pentlands",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000108": {
-    "Consituency": "Edinburgh Southern",
-    "2015 Nomination": ""
+    "consituency": "Edinburgh Southern",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000109": {
-    "Consituency": "Edinburgh Western",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Edinburgh Western",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000687": {
-    "Consituency": "Edmonton",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Edmonton",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000688": {
-    "Consituency": "Ellesmere Port and Neston",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Ellesmere Port and Neston",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000689": {
-    "Consituency": "Elmet and Rothwell",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Elmet and Rothwell",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000690": {
-    "Consituency": "Eltham",
-    "2015 Nomination": ""
+    "consituency": "Eltham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000691": {
-    "Consituency": "Enfield North",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Enfield North",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000692": {
-    "Consituency": "Enfield Southgate",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Enfield Southgate",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000693": {
-    "Consituency": "Epping Forest",
-    "2015 Nomination": ""
+    "consituency": "Epping Forest",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000694": {
-    "Consituency": "Epsom and Ewell",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Epsom and Ewell",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000695": {
-    "Consituency": "Erewash",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Erewash",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000696": {
-    "Consituency": "Erith and Thamesmead",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Erith and Thamesmead",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000697": {
-    "Consituency": "Esher and Walton",
-    "2015 Nomination": ""
+    "consituency": "Esher and Walton",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000111": {
-    "Consituency": "Ettrick Roxburgh and Berwickshire",
-    "2015 Nomination": ""
+    "consituency": "Ettrick Roxburgh and Berwickshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000698": {
-    "Consituency": "Exeter",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Exeter",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "S16000112": {
-    "Consituency": "Falkirk East",
-    "2015 Nomination": ""
+    "consituency": "Falkirk East",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000113": {
-    "Consituency": "Falkirk West",
-    "2015 Nomination": ""
+    "consituency": "Falkirk West",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000699": {
-    "Consituency": "Fareham",
-    "2015 Nomination": ""
+    "consituency": "Fareham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000700": {
-    "Consituency": "Faversham and Mid Kent",
-    "2015 Nomination": ""
+    "consituency": "Faversham and Mid Kent",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000701": {
-    "Consituency": "Feltham and Heston",
-    "2015 Nomination": ""
+    "consituency": "Feltham and Heston",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000702": {
-    "Consituency": "Filton and Bradley Stoke",
-    "2015 Nomination": ""
+    "consituency": "Filton and Bradley Stoke",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000703": {
-    "Consituency": "Finchley and Golders Green",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Finchley and Golders Green",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Owen Smith"
   },
   "E14000704": {
-    "Consituency": "Folkestone and Hythe",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Folkestone and Hythe",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000705": {
-    "Consituency": "Forest of Dean",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Forest of Dean",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000706": {
-    "Consituency": "Fylde",
-    "2015 Nomination": ""
+    "consituency": "Fylde",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000707": {
-    "Consituency": "Gainsborough",
-    "2015 Nomination": ""
+    "consituency": "Gainsborough",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000114": {
-    "Consituency": "Galloway and West Dumfries",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Galloway and West Dumfries",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000708": {
-    "Consituency": "Garston and Halewood",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Garston and Halewood",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000709": {
-    "Consituency": "Gateshead",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Gateshead",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000710": {
-    "Consituency": "Gedling",
-    "2015 Nomination": ""
+    "consituency": "Gedling",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000711": {
-    "Consituency": "Gillingham and Rainham",
-    "2015 Nomination": ""
+    "consituency": "Gillingham and Rainham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000115": {
-    "Consituency": "Glasgow Anniesland",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Glasgow Anniesland",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "S16000116": {
-    "Consituency": "Glasgow Cathcart",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Glasgow Cathcart",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "S16000117": {
-    "Consituency": "Glasgow Kelvin",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Glasgow Kelvin",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000118": {
-    "Consituency": "Glasgow Maryhill and Springburn",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Glasgow Maryhill and Springburn",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000119": {
-    "Consituency": "Glasgow Pollok",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Glasgow Pollok",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000120": {
-    "Consituency": "Glasgow Provan",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Glasgow Provan",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "S16000121": {
-    "Consituency": "Glasgow Shettleston",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Glasgow Shettleston",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "S16000122": {
-    "Consituency": "Glasgow Southside",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Glasgow Southside",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000712": {
-    "Consituency": "Gloucester",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Gloucester",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000713": {
-    "Consituency": "Gosport",
-    "2015 Nomination": ""
+    "consituency": "Gosport",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000046": {
-    "Consituency": "Gower",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Gower",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000714": {
-    "Consituency": "Grantham and Stamford",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Grantham and Stamford",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000715": {
-    "Consituency": "Gravesham",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Gravesham",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000716": {
-    "Consituency": "Great Grimsby",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Great Grimsby",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "E14000717": {
-    "Consituency": "Great Yarmouth",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Great Yarmouth",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000123": {
-    "Consituency": "Greenock and Inverclyde",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Greenock and Inverclyde",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000718": {
-    "Consituency": "Greenwich and Woolwich",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Greenwich and Woolwich",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000719": {
-    "Consituency": "Guildford",
-    "2015 Nomination": ""
+    "consituency": "Guildford",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000720": {
-    "Consituency": "Hackney North and Stoke Newington",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Hackney North and Stoke Newington",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000721": {
-    "Consituency": "Hackney South and Shoreditch",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Hackney South and Shoreditch",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000722": {
-    "Consituency": "Halesowen and Rowley Regis",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Halesowen and Rowley Regis",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000723": {
-    "Consituency": "Halifax",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Halifax",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000724": {
-    "Consituency": "Haltemprice and Howden",
-    "2015 Nomination": ""
+    "consituency": "Haltemprice and Howden",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000725": {
-    "Consituency": "Halton",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Halton",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000124": {
-    "Consituency": "Hamilton, Larkhall and Stonehouse",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Hamilton, Larkhall and Stonehouse",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000726": {
-    "Consituency": "Hammersmith",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Hammersmith",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000727": {
-    "Consituency": "Hampstead and Kilburn",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Hampstead and Kilburn",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000728": {
-    "Consituency": "Harborough",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Harborough",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000729": {
-    "Consituency": "Harlow",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Harlow",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000730": {
-    "Consituency": "Harrogate and Knaresborough",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Harrogate and Knaresborough",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000731": {
-    "Consituency": "Harrow East",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Harrow East",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000732": {
-    "Consituency": "Harrow West",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Harrow West",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000733": {
-    "Consituency": "Hartlepool",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Hartlepool",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000734": {
-    "Consituency": "Harwich and North Essex",
-    "2015 Nomination": ""
+    "consituency": "Harwich and North Essex",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000735": {
-    "Consituency": "Hastings and Rye",
-    "2015 Nomination": ""
+    "consituency": "Hastings and Rye",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000736": {
-    "Consituency": "Havant",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Havant",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000737": {
-    "Consituency": "Hayes and Harlington",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Hayes and Harlington",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000738": {
-    "Consituency": "Hazel Grove",
-    "2015 Nomination": ""
+    "consituency": "Hazel Grove",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000739": {
-    "Consituency": "Hemel Hempstead",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Hemel Hempstead",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000740": {
-    "Consituency": "Hemsworth",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Hemsworth",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000741": {
-    "Consituency": "Hendon",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Hendon",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000742": {
-    "Consituency": "Henley",
-    "2015 Nomination": ""
+    "consituency": "Henley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000743": {
-    "Consituency": "Hereford and South Herefordshire",
-    "2015 Nomination": ""
+    "consituency": "Hereford and South Herefordshire",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000744": {
-    "Consituency": "Hertford and Stortford",
-    "2015 Nomination": ""
+    "consituency": "Hertford and Stortford",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000745": {
-    "Consituency": "Hertsmere",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Hertsmere",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000746": {
-    "Consituency": "Hexham",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Hexham",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000747": {
-    "Consituency": "Heywood and Middleton",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Heywood and Middleton",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000748": {
-    "Consituency": "High Peak",
-    "2015 Nomination": ""
+    "consituency": "High Peak",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000749": {
-    "Consituency": "Hitchin and Harpenden",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Hitchin and Harpenden",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000750": {
-    "Consituency": "Holborn and St Pancras",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Holborn and St Pancras",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000751": {
-    "Consituency": "Hornchurch and Upminster",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Hornchurch and Upminster",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000752": {
-    "Consituency": "Hornsey and Wood Green",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Hornsey and Wood Green",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000753": {
-    "Consituency": "Horsham",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Horsham",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000754": {
-    "Consituency": "Houghton and Sunderland South",
-    "2015 Nomination": ""
+    "consituency": "Houghton and Sunderland South",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000755": {
-    "Consituency": "Hove",
-    "2015 Nomination": ""
+    "consituency": "Hove",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000756": {
-    "Consituency": "Huddersfield",
-    "2015 Nomination": ""
+    "consituency": "Huddersfield",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000757": {
-    "Consituency": "Huntingdon",
-    "2015 Nomination": ""
+    "consituency": "Huntingdon",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000758": {
-    "Consituency": "Hyndburn",
-    "2015 Nomination": ""
+    "consituency": "Hyndburn",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000759": {
-    "Consituency": "Ilford North",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Ilford North",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14000760": {
-    "Consituency": "Ilford South",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Ilford South",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000125": {
-    "Consituency": "Inverness and Nairn",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Inverness and Nairn",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000761": {
-    "Consituency": "Ipswich",
-    "2015 Nomination": ""
+    "consituency": "Ipswich",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000762": {
-    "Consituency": "Isle of Wight",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Isle of Wight",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000763": {
-    "Consituency": "Islington North",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Islington North",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000764": {
-    "Consituency": "Islington South and Finsbury",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Islington South and Finsbury",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000077": {
-    "Consituency": "Islwyn",
-    "2015 Nomination": ""
+    "consituency": "Islwyn",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000765": {
-    "Consituency": "Jarrow",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Jarrow",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000766": {
-    "Consituency": "Keighley",
-    "2015 Nomination": ""
+    "consituency": "Keighley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000767": {
-    "Consituency": "Kenilworth and Southam",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Kenilworth and Southam",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000768": {
-    "Consituency": "Kensington",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Kensington",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000769": {
-    "Consituency": "Kettering",
-    "2015 Nomination": ""
+    "consituency": "Kettering",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000126": {
-    "Consituency": "Kilmarnock and Irvine Valley",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Kilmarnock and Irvine Valley",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000770": {
-    "Consituency": "Kingston and Surbiton",
-    "2015 Nomination": ""
+    "consituency": "Kingston and Surbiton",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000771": {
-    "Consituency": "Kingston upon Hull East",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Kingston upon Hull East",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000772": {
-    "Consituency": "Kingston upon Hull North",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Kingston upon Hull North",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000773": {
-    "Consituency": "Kingston upon Hull West and Hessl",
-    "2015 Nomination": ""
+    "consituency": "Kingston upon Hull West and Hessl",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000774": {
-    "Consituency": "Kingswood",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Kingswood",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000127": {
-    "Consituency": "Kirkcaldy",
-    "2015 Nomination": ""
+    "consituency": "Kirkcaldy",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000775": {
-    "Consituency": "Knowsley",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Knowsley",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000776": {
-    "Consituency": "Lancaster and Fleetwood",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Lancaster and Fleetwood",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000777": {
-    "Consituency": "Leeds Central",
-    "2015 Nomination": ""
+    "consituency": "Leeds Central",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000778": {
-    "Consituency": "Leeds East",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Leeds East",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000779": {
-    "Consituency": "Leeds North East",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Leeds North East",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000780": {
-    "Consituency": "Leeds North West",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Leeds North West",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000781": {
-    "Consituency": "Leeds West",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Leeds West",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000782": {
-    "Consituency": "Leicester East",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Leicester East",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "E14000783": {
-    "Consituency": "Leicester South",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Leicester South",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000784": {
-    "Consituency": "Leicester West",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Leicester West",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14000785": {
-    "Consituency": "Leigh",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Leigh",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000786": {
-    "Consituency": "Lewes",
-    "2015 Nomination": ""
+    "consituency": "Lewes",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000787": {
-    "Consituency": "Lewisham East",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Lewisham East",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14000788": {
-    "Consituency": "Lewisham West and Penge",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Lewisham West and Penge",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000789": {
-    "Consituency": "Lewisham Deptford",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Lewisham Deptford",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000790": {
-    "Consituency": "Leyton and Wanstead",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Leyton and Wanstead",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000791": {
-    "Consituency": "Lichfield",
-    "2015 Nomination": ""
+    "consituency": "Lichfield",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000792": {
-    "Consituency": "Lincoln",
-    "2015 Nomination": ""
+    "consituency": "Lincoln",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000128": {
-    "Consituency": "Linlithgow",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Linlithgow",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000793": {
-    "Consituency": "Liverpool Riverside",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Liverpool Riverside",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000794": {
-    "Consituency": "Liverpool Walton",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Liverpool Walton",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000795": {
-    "Consituency": "Liverpool Wavertree",
-    "2015 Nomination": ""
+    "consituency": "Liverpool Wavertree",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000796": {
-    "Consituency": "Liverpool West Derby",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Liverpool West Derby",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000045": {
-    "Consituency": "Llanelli",
-    "2015 Nomination": ""
+    "consituency": "Llanelli",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000797": {
-    "Consituency": "Loughborough",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Loughborough",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000798": {
-    "Consituency": "Louth and Horncastle",
-    "2015 Nomination": ""
+    "consituency": "Louth and Horncastle",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000799": {
-    "Consituency": "Ludlow",
-    "2015 Nomination": ""
+    "consituency": "Ludlow",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000800": {
-    "Consituency": "Luton North",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Luton North",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000801": {
-    "Consituency": "Luton South",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Luton South",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000802": {
-    "Consituency": "Macclesfield",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Macclesfield",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000803": {
-    "Consituency": "Maidenhead",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Maidenhead",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000804": {
-    "Consituency": "Maidstone and The Weald",
-    "2015 Nomination": ""
+    "consituency": "Maidstone and The Weald",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000805": {
-    "Consituency": "Makerfield",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Makerfield",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000806": {
-    "Consituency": "Maldon",
-    "2015 Nomination": ""
+    "consituency": "Maldon",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000807": {
-    "Consituency": "Manchester Central",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Manchester Central",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000808": {
-    "Consituency": "Manchester Gorton",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Manchester Gorton",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000809": {
-    "Consituency": "Manchester Withington",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Manchester Withington",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000810": {
-    "Consituency": "Mansfield",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Mansfield",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000811": {
-    "Consituency": "Meon Valley",
-    "2015 Nomination": ""
+    "consituency": "Meon Valley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000812": {
-    "Consituency": "Meriden",
-    "2015 Nomination": ""
+    "consituency": "Meriden",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000071": {
-    "Consituency": "Merthyr Tydfil and Rhymney",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Merthyr Tydfil and Rhymney",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000813": {
-    "Consituency": "Mid Bedfordshire",
-    "2015 Nomination": ""
+    "consituency": "Mid Bedfordshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000814": {
-    "Consituency": "Mid Derbyshire",
-    "2015 Nomination": ""
+    "consituency": "Mid Derbyshire",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000815": {
-    "Consituency": "Mid Dorset and North Poole",
-    "2015 Nomination": ""
+    "consituency": "Mid Dorset and North Poole",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000129": {
-    "Consituency": "Mid Fife and Glenrothes",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Mid Fife and Glenrothes",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000816": {
-    "Consituency": "Mid Norfolk",
-    "2015 Nomination": ""
+    "consituency": "Mid Norfolk",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000817": {
-    "Consituency": "Mid Sussex",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Mid Sussex",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000818": {
-    "Consituency": "Mid Worcestershire",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Mid Worcestershire",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000819": {
-    "Consituency": "Middlesbrough",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Middlesbrough",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000820": {
-    "Consituency": "Middlesbrough South and East Clev",
-    "2015 Nomination": ""
+    "consituency": "Middlesbrough South and East Clev",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000130": {
-    "Consituency": "Midlothian North and Musselburgh",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Midlothian North and Musselburgh",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000131": {
-    "Consituency": "Midlothian South, Tweedale and Lauderdale",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Midlothian South, Tweedale and Lauderdale",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000821": {
-    "Consituency": "Milton Keynes North",
-    "2015 Nomination": ""
+    "consituency": "Milton Keynes North",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000822": {
-    "Consituency": "Milton Keynes South",
-    "2015 Nomination": ""
+    "consituency": "Milton Keynes South",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000823": {
-    "Consituency": "Mitcham and Morden",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Mitcham and Morden",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14000824": {
-    "Consituency": "Mole Valley",
-    "2015 Nomination": ""
+    "consituency": "Mole Valley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000054": {
-    "Consituency": "Monmouth",
-    "2015 Nomination": ""
+    "consituency": "Monmouth",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000063": {
-    "Consituency": "Montgomeryshire",
-    "2015 Nomination": ""
+    "consituency": "Montgomeryshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000132": {
-    "Consituency": "Moray",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Moray",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": "Owen Smith"
   },
   "E14000825": {
-    "Consituency": "Morecambe and Lunesdale",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Morecambe and Lunesdale",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000826": {
-    "Consituency": "Morley and Outwood",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Morley and Outwood",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "S16000133": {
-    "Consituency": "Motherwell and Wishaw",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Motherwell and Wishaw",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000110": {
-    "Consituency": "Na h-Eileanan an Iar",
-    "2015 Nomination": ""
+    "consituency": "Na h-Eileanan an Iar",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000069": {
-    "Consituency": "Neath",
-    "2015 Nomination": ""
+    "consituency": "Neath",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000827": {
-    "Consituency": "New Forest East",
-    "2015 Nomination": ""
+    "consituency": "New Forest East",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000828": {
-    "Consituency": "New Forest West",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "New Forest West",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000829": {
-    "Consituency": "Newark",
-    "2015 Nomination": ""
+    "consituency": "Newark",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000830": {
-    "Consituency": "Newbury",
-    "2015 Nomination": ""
+    "consituency": "Newbury",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000831": {
-    "Consituency": "Newcastle upon Tyne Central",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Newcastle upon Tyne Central",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000832": {
-    "Consituency": "Newcastle upon Tyne East",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Newcastle upon Tyne East",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000833": {
-    "Consituency": "Newcastle upon Tyne North",
-    "2015 Nomination": ""
+    "consituency": "Newcastle upon Tyne North",
+    "nomination_2015": "",
+    "nomination_2016": "Owen Smith"
   },
   "E14000834": {
-    "Consituency": "Newcastle-under-Lyme",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Newcastle-under-Lyme",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000055": {
-    "Consituency": "Newport East",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Newport East",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "W07000056": {
-    "Consituency": "Newport West",
-    "2015 Nomination": ""
+    "consituency": "Newport West",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000835": {
-    "Consituency": "Newton Abbot",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Newton Abbot",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000836": {
-    "Consituency": "Normanton, Pontefract and Castleford",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Normanton, Pontefract and Castleford",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000837": {
-    "Consituency": "North Cornwall",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "North Cornwall",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000838": {
-    "Consituency": "North Devon",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "North Devon",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000839": {
-    "Consituency": "North Dorset",
-    "2015 Nomination": ""
+    "consituency": "North Dorset",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000840": {
-    "Consituency": "North Durham",
-    "2015 Nomination": ""
+    "consituency": "North Durham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000841": {
-    "Consituency": "North East Bedfordshire",
-    "2015 Nomination": ""
+    "consituency": "North East Bedfordshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000842": {
-    "Consituency": "North East Cambridgeshire",
-    "2015 Nomination": ""
+    "consituency": "North East Cambridgeshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000843": {
-    "Consituency": "North East Derbyshire",
-    "2015 Nomination": ""
+    "consituency": "North East Derbyshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000134": {
-    "Consituency": "North East Fife",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "North East Fife",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000844": {
-    "Consituency": "North East Hampshire",
-    "2015 Nomination": ""
+    "consituency": "North East Hampshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000845": {
-    "Consituency": "North East Hertfordshire",
-    "2015 Nomination": ""
+    "consituency": "North East Hertfordshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000846": {
-    "Consituency": "North East Somerset",
-    "2015 Nomination": ""
+    "consituency": "North East Somerset",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000847": {
-    "Consituency": "North Herefordshire",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "North Herefordshire",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000848": {
-    "Consituency": "North Norfolk",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "North Norfolk",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000849": {
-    "Consituency": "North Shropshire",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "North Shropshire",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000850": {
-    "Consituency": "North Somerset",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "North Somerset",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000851": {
-    "Consituency": "North Swindon",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "North Swindon",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000852": {
-    "Consituency": "North Thanet",
-    "2015 Nomination": ""
+    "consituency": "North Thanet",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000853": {
-    "Consituency": "North Tyneside",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "North Tyneside",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000854": {
-    "Consituency": "North Warwickshire",
-    "2015 Nomination": ""
+    "consituency": "North Warwickshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000855": {
-    "Consituency": "North West Cambridgeshire",
-    "2015 Nomination": ""
+    "consituency": "North West Cambridgeshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000856": {
-    "Consituency": "North West Durham",
-    "2015 Nomination": ""
+    "consituency": "North West Durham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000857": {
-    "Consituency": "North West Hampshire",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "North West Hampshire",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000858": {
-    "Consituency": "North West Leicestershire",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "North West Leicestershire",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000859": {
-    "Consituency": "North West Norfolk",
-    "2015 Nomination": ""
+    "consituency": "North West Norfolk",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000860": {
-    "Consituency": "North Wiltshire",
-    "2015 Nomination": ""
+    "consituency": "North Wiltshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000861": {
-    "Consituency": "Northampton North",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Northampton North",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000862": {
-    "Consituency": "Northampton South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Northampton South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000863": {
-    "Consituency": "Norwich North",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Norwich North",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000864": {
-    "Consituency": "Norwich South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Norwich South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000865": {
-    "Consituency": "Nottingham East",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Nottingham East",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000866": {
-    "Consituency": "Nottingham North",
-    "2015 Nomination": ""
+    "consituency": "Nottingham North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000867": {
-    "Consituency": "Nottingham South",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Nottingham South",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Owen Smith"
   },
   "E14000868": {
-    "Consituency": "Nuneaton",
-    "2015 Nomination": ""
+    "consituency": "Nuneaton",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000074": {
-    "Consituency": "Ogmore",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Ogmore",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000869": {
-    "Consituency": "Old Bexley and Sidcup",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Old Bexley and Sidcup",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000870": {
-    "Consituency": "Oldham East and Saddleworth",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Oldham East and Saddleworth",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000871": {
-    "Consituency": "Oldham West and Royton",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Oldham West and Royton",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "S16000135": {
-    "Consituency": "Orkney Islands",
-    "2015 Nomination": ""
+    "consituency": "Orkney Islands",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000872": {
-    "Consituency": "Orpington",
-    "2015 Nomination": ""
+    "consituency": "Orpington",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000873": {
-    "Consituency": "Oxford East",
-    "2015 Nomination": ""
+    "consituency": "Oxford East",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000874": {
-    "Consituency": "Oxford West and Abingdon",
-    "2015 Nomination": ""
+    "consituency": "Oxford West and Abingdon",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000136": {
-    "Consituency": "Paisley",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Paisley",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000875": {
-    "Consituency": "Pendle",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Pendle",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000876": {
-    "Consituency": "Penistone and Stocksbridge",
-    "2015 Nomination": ""
+    "consituency": "Penistone and Stocksbridge",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000877": {
-    "Consituency": "Penrith and The Border",
-    "2015 Nomination": ""
+    "consituency": "Penrith and The Border",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000137": {
-    "Consituency": "Perthshire North",
-    "2015 Nomination": ""
+    "consituency": "Perthshire North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000138": {
-    "Consituency": "Perthshire South and Kinross-shire",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Perthshire South and Kinross-shire",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000878": {
-    "Consituency": "Peterborough",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Peterborough",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000879": {
-    "Consituency": "Plymouth Moor View",
-    "2015 Nomination": ""
+    "consituency": "Plymouth Moor View",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000880": {
-    "Consituency": "Plymouth Sutton and Devonport",
-    "2015 Nomination": ""
+    "consituency": "Plymouth Sutton and Devonport",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000075": {
-    "Consituency": "Pontypridd",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Pontypridd",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000881": {
-    "Consituency": "Poole",
-    "2015 Nomination": ""
+    "consituency": "Poole",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000882": {
-    "Consituency": "Poplar and Limehouse",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Poplar and Limehouse",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000883": {
-    "Consituency": "Portsmouth North",
-    "2015 Nomination": ""
+    "consituency": "Portsmouth North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000884": {
-    "Consituency": "Portsmouth South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Portsmouth South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "W07000065": {
-    "Consituency": "Preseli Pembrokeshire",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Preseli Pembrokeshire",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000885": {
-    "Consituency": "Preston",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Preston",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000886": {
-    "Consituency": "Pudsey",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Pudsey",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000887": {
-    "Consituency": "Putney",
-    "2015 Nomination": ""
+    "consituency": "Putney",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000888": {
-    "Consituency": "Rayleigh and Wickford",
-    "2015 Nomination": ""
+    "consituency": "Rayleigh and Wickford",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000889": {
-    "Consituency": "Reading East",
-    "2015 Nomination": ""
+    "consituency": "Reading East",
+    "nomination_2015": "",
+    "nomination_2016": "Owen Smith"
   },
   "E14000890": {
-    "Consituency": "Reading West",
-    "2015 Nomination": ""
+    "consituency": "Reading West",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000891": {
-    "Consituency": "Redcar",
-    "2015 Nomination": ""
+    "consituency": "Redcar",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000892": {
-    "Consituency": "Redditch",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Redditch",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000893": {
-    "Consituency": "Reigate",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Reigate",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "S16000139": {
-    "Consituency": "Renfrewshire North and West",
-    "2015 Nomination": ""
+    "consituency": "Renfrewshire North and West",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000140": {
-    "Consituency": "Renfrewshire South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Renfrewshire South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "W07000052": {
-    "Consituency": "Rhondda",
-    "2015 Nomination": ""
+    "consituency": "Rhondda",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000894": {
-    "Consituency": "Ribble Valley",
-    "2015 Nomination": ""
+    "consituency": "Ribble Valley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000895": {
-    "Consituency": "Richmond (Yorks)",
-    "2015 Nomination": ""
+    "consituency": "Richmond (Yorks)",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000896": {
-    "Consituency": "Richmond Park",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Richmond Park",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Owen Smith"
   },
   "E14000897": {
-    "Consituency": "Rochdale",
-    "2015 Nomination": ""
+    "consituency": "Rochdale",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000898": {
-    "Consituency": "Rochester and Strood",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Rochester and Strood",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000899": {
-    "Consituency": "Rochford and Southend East",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Rochford and Southend East",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000900": {
-    "Consituency": "Romford",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Romford",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000901": {
-    "Consituency": "Romsey and Southampton North",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Romsey and Southampton North",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000902": {
-    "Consituency": "Rossendale and Darwen",
-    "2015 Nomination": ""
+    "consituency": "Rossendale and Darwen",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000903": {
-    "Consituency": "Rother Valley",
-    "2015 Nomination": ""
+    "consituency": "Rother Valley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000904": {
-    "Consituency": "Rotherham",
-    "2015 Nomination": ""
+    "consituency": "Rotherham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000905": {
-    "Consituency": "Rugby",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Rugby",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000906": {
-    "Consituency": "Ruislip, Northwood and Pinner",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Ruislip, Northwood and Pinner",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000907": {
-    "Consituency": "Runnymede and Weybridge",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Runnymede and Weybridge",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "E14000908": {
-    "Consituency": "Rushcliffe",
-    "2015 Nomination": ""
+    "consituency": "Rushcliffe",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000141": {
-    "Consituency": "Rutherglen",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Rutherglen",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000909": {
-    "Consituency": "Rutland and Melton",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Rutland and Melton",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000910": {
-    "Consituency": "Saffron Walden",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Saffron Walden",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000911": {
-    "Consituency": "Salford and Eccles",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Salford and Eccles",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000912": {
-    "Consituency": "Salisbury",
-    "2015 Nomination": ""
+    "consituency": "Salisbury",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000913": {
-    "Consituency": "Scarborough and Whitby",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Scarborough and Whitby",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000914": {
-    "Consituency": "Scunthorpe",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Scunthorpe",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000915": {
-    "Consituency": "Sedgefield",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Sedgefield",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14000916": {
-    "Consituency": "Sefton Central",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Sefton Central",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000917": {
-    "Consituency": "Selby and Ainsty",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Selby and Ainsty",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000918": {
-    "Consituency": "Sevenoaks",
-    "2015 Nomination": ""
+    "consituency": "Sevenoaks",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000919": {
-    "Consituency": "Sheffield Central",
-    "2015 Nomination": ""
+    "consituency": "Sheffield Central",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000920": {
-    "Consituency": "Sheffield South East",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Sheffield South East",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000921": {
-    "Consituency": "Sheffield Brightside and Hillsborough",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Sheffield Brightside and Hillsborough",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000922": {
-    "Consituency": "Sheffield Hallam",
-    "2015 Nomination": ""
+    "consituency": "Sheffield Hallam",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000923": {
-    "Consituency": "Sheffield Heeley",
-    "2015 Nomination": ""
+    "consituency": "Sheffield Heeley",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000924": {
-    "Consituency": "Sherwood",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Sherwood",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000142": {
-    "Consituency": "Shetland Islands",
-    "2015 Nomination": ""
+    "consituency": "Shetland Islands",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000925": {
-    "Consituency": "Shipley",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Shipley",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000926": {
-    "Consituency": "Shrewsbury and Atcham",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Shrewsbury and Atcham",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000927": {
-    "Consituency": "Sittingbourne and Sheppey",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Sittingbourne and Sheppey",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000928": {
-    "Consituency": "Skipton and Ripon",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Skipton and Ripon",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000143": {
-    "Consituency": "Skye Lochaber and Badenoch",
-    "2015 Nomination": ""
+    "consituency": "Skye Lochaber and Badenoch",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000929": {
-    "Consituency": "Sleaford and North Hykeham",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Sleaford and North Hykeham",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000930": {
-    "Consituency": "Slough",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Slough",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000931": {
-    "Consituency": "Solihull",
-    "2015 Nomination": ""
+    "consituency": "Solihull",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000932": {
-    "Consituency": "Somerton and Frome",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Somerton and Frome",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000933": {
-    "Consituency": "South Basildon and East Thurrock",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "South Basildon and East Thurrock",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000934": {
-    "Consituency": "South Cambridgeshire",
-    "2015 Nomination": ""
+    "consituency": "South Cambridgeshire",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000935": {
-    "Consituency": "South Derbyshire",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "South Derbyshire",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000936": {
-    "Consituency": "South Dorset",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "South Dorset",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000937": {
-    "Consituency": "South East Cambridgeshire",
-    "2015 Nomination": ""
+    "consituency": "South East Cambridgeshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000938": {
-    "Consituency": "South East Cornwall",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "South East Cornwall",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000939": {
-    "Consituency": "South Holland and The Deepings",
-    "2015 Nomination": ""
+    "consituency": "South Holland and The Deepings",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000940": {
-    "Consituency": "South Leicestershire",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "South Leicestershire",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000941": {
-    "Consituency": "South Norfolk",
-    "2015 Nomination": ""
+    "consituency": "South Norfolk",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000942": {
-    "Consituency": "South Northamptonshire",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "South Northamptonshire",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000943": {
-    "Consituency": "South Ribble",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "South Ribble",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000944": {
-    "Consituency": "South Shields",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "South Shields",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000945": {
-    "Consituency": "South Staffordshire",
-    "2015 Nomination": ""
+    "consituency": "South Staffordshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000946": {
-    "Consituency": "South Suffolk",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "South Suffolk",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000947": {
-    "Consituency": "South Swindon",
-    "2015 Nomination": ""
+    "consituency": "South Swindon",
+    "nomination_2015": "",
+    "nomination_2016": "Owen Smith"
   },
   "E14000948": {
-    "Consituency": "South Thanet",
-    "2015 Nomination": ""
+    "consituency": "South Thanet",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000949": {
-    "Consituency": "South West Bedfordshire",
-    "2015 Nomination": ""
+    "consituency": "South West Bedfordshire",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000950": {
-    "Consituency": "South West Devon",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "South West Devon",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000951": {
-    "Consituency": "South West Hertfordshire",
-    "2015 Nomination": ""
+    "consituency": "South West Hertfordshire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000952": {
-    "Consituency": "South West Norfolk",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "South West Norfolk",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000953": {
-    "Consituency": "South West Surrey",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "South West Surrey",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000954": {
-    "Consituency": "South West Wiltshire",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "South West Wiltshire",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000955": {
-    "Consituency": "Southampton Itchen",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Southampton Itchen",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000956": {
-    "Consituency": "Southampton Test",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Southampton Test",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000957": {
-    "Consituency": "Southend West",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Southend West",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000958": {
-    "Consituency": "Southport",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Southport",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000959": {
-    "Consituency": "Spelthorne",
-    "2015 Nomination": ""
+    "consituency": "Spelthorne",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000960": {
-    "Consituency": "St Albans",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "St Albans",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000961": {
-    "Consituency": "St Austell and Newquay",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "St Austell and Newquay",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000962": {
-    "Consituency": "St Helens North",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "St Helens North",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000963": {
-    "Consituency": "St Helens South and Whiston",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "St Helens South and Whiston",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000964": {
-    "Consituency": "St Ives",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "St Ives",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000965": {
-    "Consituency": "Stafford",
-    "2015 Nomination": ""
+    "consituency": "Stafford",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000966": {
-    "Consituency": "Staffordshire Moorlands",
-    "2015 Nomination": ""
+    "consituency": "Staffordshire Moorlands",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000967": {
-    "Consituency": "Stalybridge and Hyde",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Stalybridge and Hyde",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000968": {
-    "Consituency": "Stevenage",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Stevenage",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "S16000144": {
-    "Consituency": "Stirling",
-    "2015 Nomination": ""
+    "consituency": "Stirling",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000969": {
-    "Consituency": "Stockport",
-    "2015 Nomination": ""
+    "consituency": "Stockport",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000970": {
-    "Consituency": "Stockton North",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Stockton North",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000971": {
-    "Consituency": "Stockton South",
-    "2015 Nomination": ""
+    "consituency": "Stockton South",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000972": {
-    "Consituency": "Stoke-on-Trent Central",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Stoke-on-Trent Central",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000973": {
-    "Consituency": "Stoke-on-Trent North",
-    "2015 Nomination": ""
+    "consituency": "Stoke-on-Trent North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000974": {
-    "Consituency": "Stoke-on-Trent South",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Stoke-on-Trent South",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000975": {
-    "Consituency": "Stone",
-    "2015 Nomination": ""
+    "consituency": "Stone",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000976": {
-    "Consituency": "Stourbridge",
-    "2015 Nomination": ""
+    "consituency": "Stourbridge",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000977": {
-    "Consituency": "Stratford-on-Avon",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Stratford-on-Avon",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "S16000145": {
-    "Consituency": "Strathkelvin and Bearsden",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Strathkelvin and Bearsden",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000978": {
-    "Consituency": "Streatham",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Streatham",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": "Owen Smith"
   },
   "E14000979": {
-    "Consituency": "Stretford and Urmston",
-    "2015 Nomination": ""
+    "consituency": "Stretford and Urmston",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000980": {
-    "Consituency": "Stroud",
-    "2015 Nomination": ""
+    "consituency": "Stroud",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000981": {
-    "Consituency": "Suffolk Coastal",
-    "2015 Nomination": ""
+    "consituency": "Suffolk Coastal",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000982": {
-    "Consituency": "Sunderland Central",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Sunderland Central",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000983": {
-    "Consituency": "Surrey Heath",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Surrey Heath",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000984": {
-    "Consituency": "Sutton and Cheam",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Sutton and Cheam",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000985": {
-    "Consituency": "Sutton Coldfield",
-    "2015 Nomination": ""
+    "consituency": "Sutton Coldfield",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000048": {
-    "Consituency": "Swansea East",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Swansea East",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "W07000047": {
-    "Consituency": "Swansea West",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Swansea West",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000986": {
-    "Consituency": "Tamworth",
-    "2015 Nomination": ""
+    "consituency": "Tamworth",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000987": {
-    "Consituency": "Tatton",
-    "2015 Nomination": ""
+    "consituency": "Tatton",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000988": {
-    "Consituency": "Taunton Deane",
-    "2015 Nomination": ""
+    "consituency": "Taunton Deane",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000989": {
-    "Consituency": "Telford",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Telford",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14000990": {
-    "Consituency": "Tewkesbury",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Tewkesbury",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000991": {
-    "Consituency": "The Cotswolds",
-    "2015 Nomination": ""
+    "consituency": "The Cotswolds",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000992": {
-    "Consituency": "The Wrekin",
-    "2015 Nomination": ""
+    "consituency": "The Wrekin",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000993": {
-    "Consituency": "Thirsk and Malton",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Thirsk and Malton",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000994": {
-    "Consituency": "Thornbury and Yate",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Thornbury and Yate",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14000995": {
-    "Consituency": "Thurrock",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Thurrock",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14000996": {
-    "Consituency": "Tiverton and Honiton",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Tiverton and Honiton",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000997": {
-    "Consituency": "Tonbridge and Malling",
-    "2015 Nomination": ""
+    "consituency": "Tonbridge and Malling",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14000998": {
-    "Consituency": "Tooting",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Tooting",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14000999": {
-    "Consituency": "Torbay",
-    "2015 Nomination": ""
+    "consituency": "Torbay",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000053": {
-    "Consituency": "Torfaen",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Torfaen",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001000": {
-    "Consituency": "Torridge and West Devon",
-    "2015 Nomination": ""
+    "consituency": "Torridge and West Devon",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001001": {
-    "Consituency": "Totnes",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Totnes",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14001002": {
-    "Consituency": "Tottenham",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Tottenham",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001003": {
-    "Consituency": "Truro and Falmouth",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Truro and Falmouth",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14001004": {
-    "Consituency": "Tunbridge Wells",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Tunbridge Wells",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001005": {
-    "Consituency": "Twickenham",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Twickenham",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14001006": {
-    "Consituency": "Tynemouth",
-    "2015 Nomination": ""
+    "consituency": "Tynemouth",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "S16000146": {
-    "Consituency": "Uddingston and Bellshill",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Uddingston and Bellshill",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001007": {
-    "Consituency": "Uxbridge and South Ruislip",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Uxbridge and South Ruislip",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "W07000060": {
-    "Consituency": "Vale of Clwyd",
-    "2015 Nomination": ""
+    "consituency": "Vale of Clwyd",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "W07000078": {
-    "Consituency": "Vale of Glamorgan",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Vale of Glamorgan",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14001008": {
-    "Consituency": "Vauxhall",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Vauxhall",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": "Owen Smith"
   },
   "E14001009": {
-    "Consituency": "Wakefield",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Wakefield",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14001010": {
-    "Consituency": "Wallasey",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Wallasey",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001011": {
-    "Consituency": "Walsall North",
-    "2015 Nomination": ""
+    "consituency": "Walsall North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001012": {
-    "Consituency": "Walsall South",
-    "2015 Nomination": ""
+    "consituency": "Walsall South",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001013": {
-    "Consituency": "Walthamstow",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Walthamstow",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001014": {
-    "Consituency": "Wansbeck",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Wansbeck",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001015": {
-    "Consituency": "Wantage",
-    "2015 Nomination": ""
+    "consituency": "Wantage",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001016": {
-    "Consituency": "Warley",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Warley",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14001017": {
-    "Consituency": "Warrington North",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Warrington North",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001018": {
-    "Consituency": "Warrington South",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Warrington South",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "E14001019": {
-    "Consituency": "Warwick and Leamington",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Warwick and Leamington",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001020": {
-    "Consituency": "Washington and Sunderland West",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Washington and Sunderland West",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001021": {
-    "Consituency": "Watford",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Watford",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14001022": {
-    "Consituency": "Waveney",
-    "2015 Nomination": ""
+    "consituency": "Waveney",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001023": {
-    "Consituency": "Wealden",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Wealden",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001024": {
-    "Consituency": "Weaver Vale",
-    "2015 Nomination": ""
+    "consituency": "Weaver Vale",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001025": {
-    "Consituency": "Wellingborough",
-    "2015 Nomination": ""
+    "consituency": "Wellingborough",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001026": {
-    "Consituency": "Wells",
-    "2015 Nomination": ""
+    "consituency": "Wells",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001027": {
-    "Consituency": "Welwyn Hatfield",
-    "2015 Nomination": ""
+    "consituency": "Welwyn Hatfield",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001028": {
-    "Consituency": "Wentworth and Dearne",
-    "2015 Nomination": ""
+    "consituency": "Wentworth and Dearne",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001029": {
-    "Consituency": "West Bromwich East",
-    "2015 Nomination": ""
+    "consituency": "West Bromwich East",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001030": {
-    "Consituency": "West Bromwich West",
-    "2015 Nomination": ""
+    "consituency": "West Bromwich West",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001031": {
-    "Consituency": "West Dorset",
-    "2015 Nomination": ""
+    "consituency": "West Dorset",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001032": {
-    "Consituency": "West Ham",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "West Ham",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Owen Smith"
   },
   "E14001033": {
-    "Consituency": "West Lancashire",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "West Lancashire",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001034": {
-    "Consituency": "West Suffolk",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "West Suffolk",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14001035": {
-    "Consituency": "West Worcestershire",
-    "2015 Nomination": ""
+    "consituency": "West Worcestershire",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001036": {
-    "Consituency": "Westminster North",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Westminster North",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "E14001037": {
-    "Consituency": "Westmorland and Lonsdale",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Westmorland and Lonsdale",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14001038": {
-    "Consituency": "Weston-Super-Mare",
-    "2015 Nomination": ""
+    "consituency": "Weston-Super-Mare",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001039": {
-    "Consituency": "Wigan",
-    "2015 Nomination": ""
+    "consituency": "Wigan",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001040": {
-    "Consituency": "Wimbledon",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Wimbledon",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": "Owen Smith"
   },
   "E14001041": {
-    "Consituency": "Winchester",
-    "2015 Nomination": ""
+    "consituency": "Winchester",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001042": {
-    "Consituency": "Windsor",
-    "2015 Nomination": ""
+    "consituency": "Windsor",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001043": {
-    "Consituency": "Wirral South",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Wirral South",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14001044": {
-    "Consituency": "Wirral West",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Wirral West",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14001045": {
-    "Consituency": "Witham",
-    "2015 Nomination": ""
+    "consituency": "Witham",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001046": {
-    "Consituency": "Witney",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Witney",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "E14001047": {
-    "Consituency": "Woking",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Woking",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001048": {
-    "Consituency": "Wokingham",
-    "2015 Nomination": ""
+    "consituency": "Wokingham",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14001049": {
-    "Consituency": "Wolverhampton North East",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Wolverhampton North East",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001050": {
-    "Consituency": "Wolverhampton South East",
-    "2015 Nomination": "Liz Kendall"
+    "consituency": "Wolverhampton South East",
+    "nomination_2015": "Liz Kendall",
+    "nomination_2016": ""
   },
   "E14001051": {
-    "Consituency": "Wolverhampton South West",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Wolverhampton South West",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001052": {
-    "Consituency": "Worcester",
-    "2015 Nomination": ""
+    "consituency": "Worcester",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001053": {
-    "Consituency": "Workington",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Workington",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001054": {
-    "Consituency": "Worsley and Eccles South",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Worsley and Eccles South",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001055": {
-    "Consituency": "Worthing West",
-    "2015 Nomination": ""
+    "consituency": "Worthing West",
+    "nomination_2015": "",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "W07000044": {
-    "Consituency": "Wrexham",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Wrexham",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001056": {
-    "Consituency": "Wycombe",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Wycombe",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001057": {
-    "Consituency": "Wyre and Preston North",
-    "2015 Nomination": ""
+    "consituency": "Wyre and Preston North",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001058": {
-    "Consituency": "Wyre Forest",
-    "2015 Nomination": "Andy Burnham"
+    "consituency": "Wyre Forest",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   },
   "E14001059": {
-    "Consituency": "Wythenshawe and Sale East",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Wythenshawe and Sale East",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": ""
   },
   "E14001060": {
-    "Consituency": "Yeovil",
-    "2015 Nomination": "Yvette Cooper"
+    "consituency": "Yeovil",
+    "nomination_2015": "Yvette Cooper",
+    "nomination_2016": ""
   },
   "W07000041": {
-    "Consituency": "Ynys M�n",
-    "2015 Nomination": "Jeremy Corbyn"
+    "consituency": "Ynys M�n",
+    "nomination_2015": "Jeremy Corbyn",
+    "nomination_2016": "Jeremy Corbyn"
   },
   "E14001061": {
-    "Consituency": "York Central",
-    "2015 Nomination": ""
+    "consituency": "York Central",
+    "nomination_2015": "",
+    "nomination_2016": ""
   },
   "E14001062": {
-    "Consituency": "York Outer",
-    "2015 Nomination": ""
+    "consituency": "York Outer",
+    "nomination_2015": "",
+    "nomination_2016": ""
+  },
+  "NorthernIreland": {
+    "consituency": "Northern Ireland",
+    "nomination_2015": "Andy Burnham",
+    "nomination_2016": ""
   }
 }
