@@ -25,16 +25,20 @@ function deselect(id) {
     d3.selectAll(".selected")
         .attr("class", "area");
 
-    $(".2015__constituency")
+    $(".constituency")
         .html("");
     $(".2015__nomination")
         .html("");
     $(".2015__title")
         .hide();
+    $(".2016__nomination")
+        .html("");
+    $(".2016__title")
+        .hide();
 
     if (id) {
         var new_id = "#" + id;
-        set_colour_for_area(new_id, nominations[id]["2015 Nomination"]);
+        set_colour_for_area(new_id, nominations[id]["nomination_2015"]);
     }
 }
 
@@ -90,12 +94,20 @@ function select(d) {
     d3.select(id)
         .attr("class", "selected area")
     // add the area properties to the data_table section
-   $(".2015__title")
-        .show();
-    $(".2015__constituency")
-        .html(nominations[d.id]["Consituency"]);
-    $(".2015__nomination")
-        .html(nominations[d.id]["2015 Nomination"]);
+    $(".constituency")
+        .html(nominations[d.id]["constituency"]);
+    if (nominations[d.id]["nomination_2016"] != "") {     
+        $(".2016__title")
+            .show();
+        $(".2016__nomination")
+            .html(nominations[d.id]["nomination_2016"]);
+    }
+    if (nominations[d.id]["nomination_2015"] != "") {     
+        $(".2015__title")
+            .show();
+        $(".2015__nomination")
+            .html(nominations[d.id]["nomination_2015"]);
+    }
 }
 
 // draw our map on the SVG element
@@ -155,8 +167,8 @@ function colour_map() {
 
         for (x in nominations) {
             var id = "#" + x;
-            var nomination_2015 = nominations[x]["2015 Nomination"];
-            
+            var nomination_2015 = nominations[x]["nomination_2015"];
+
             set_colour_for_area(id, nomination_2015);
         }
     });
