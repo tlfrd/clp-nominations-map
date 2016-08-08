@@ -7,11 +7,6 @@ body {
   font-weight:300;
 }
 
-.content {
-    padding-top: 20px;
-    padding-bottom: 10px;
-}
-
 #left_column {
     width: 65%;
     float: left;
@@ -44,7 +39,7 @@ body {
 }
 
 .andy {
-  fill: pink;
+  fill: red;
 }
 
 .yvette {

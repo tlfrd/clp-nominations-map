@@ -23,7 +23,14 @@ init(width, height);
 // remove any data when we lose selection of a map unit
 function deselect(id) {
     d3.selectAll(".selected")
-        .attr("class", "area"); 
+        .attr("class", "area");
+
+    $(".2015__constituency")
+        .html("");
+    $(".2015__nomination")
+        .html("");
+    $(".2015__title")
+        .hide();
 
     if (id) {
         var new_id = "#" + id;
@@ -75,7 +82,6 @@ function create_table(properties) {
 // select a map area
 function select(d) {
     // get the id of the selected map area
-    console.log(nominations[d.id]);
     var id = "#" + d.id;
     // remove the selected class from any other selected areas
     d3.selectAll(".selected")
@@ -84,6 +90,12 @@ function select(d) {
     d3.select(id)
         .attr("class", "selected area")
     // add the area properties to the data_table section
+   $(".2015__title")
+        .show();
+    $(".2015__constituency")
+        .html(nominations[d.id]["Consituency"]);
+    $(".2015__nomination")
+        .html(nominations[d.id]["2015 Nomination"]);
 }
 
 // draw our map on the SVG element
