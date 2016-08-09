@@ -1,24 +1,41 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-
 body {
   padding:20px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:300;
 }
 
+.header {
+  height: 50px;
+  background-color: black;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.map-title {
+  padding: 10px;
+  margin-left: 20px;
+  font-size: 18px;
+  color: white;
+  font-weight: 600;
+}
+
 #left_column {
-    width: 65%;
+    width: 70%;
     float: left;
+    margin-top: 50px;
+    position: relative;
 }
 
 #right_column {
-    width: 35%;
+    margin-top: 50px;
+    width: 30%;
     float: right;
 }
 
 .area{ 
-    fill: #C0C0C0;
+    fill: #E8E8E8;
     stroke: none;
 }
 
@@ -36,22 +53,79 @@ body {
     stroke-linejoin: round;
 }
 
+#choiceform {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#controls {
+  position: absolute;
+  top: 90px;
+}
+
+.n2016 {
+  margin-top: 15px;
+  height: 40px;
+}
+
+.n2015 {
+  margin-top: 20px;
+  height: 40px;
+}
+
+.n2015__image,
+.n2016__image {
+  width: 20%;
+  float: left;
+}
+
+.n2015__image img,
+.n2016__image img {
+  width: 100%;
+}
+
+.n2015__info,
+.n2016__info {
+  width: 80%;
+  float: left;
+}
+
+.n2015__title,
+.n2016__title {
+  font-size: 16px;
+}
+
+.n2015__nomination,
+.n2015__title,
+.n2016__nomination,
+.n2016__title {
+  padding-left: 10px;
+}
+
 .jeremy {
-  fill: green;
+  fill: #AA4639;
 }
 
 .andy {
-  fill: red;
+  fill: #AAA339;
 }
 
 .yvette {
-  fill: yellow;
-}
-
-.liz {
-  fill: blue;
+  fill: #4F2C73;
 }
 
 .owen {
-  fill: purple;
+  fill: #2A7F40;
+}
+
+.liz {
+  fill: #91A7D0;
+}
+
+.constituency {
+  font-size: 22px;
+  font-weight: 600;
+  border-bottom: 1px solid #777;
+  margin-bottom: 5px;
 }

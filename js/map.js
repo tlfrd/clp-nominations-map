@@ -13,7 +13,7 @@ var scale_saved = 1;
 var active = d3.select(null);
 
 function compute_size() {
-    var margin = 100;
+    var margin = 60;
     width = parseInt(d3.select("#map").style("width"));
     height = window.innerHeight - 2*margin;
 }
@@ -29,15 +29,19 @@ function deselect(id) {
         .attr("class", "area");
 
     $(".constituency")
-        .html("");
-    $(".2015__nomination")
-        .html("");
-    $(".2015__title")
         .hide();
-    $(".2016__nomination")
+    $(".n2015__nomination")
         .html("");
-    $(".2016__title")
+    $(".n2015__title")
         .hide();
+    $(".n2016__nomination")
+        .html("");
+    $(".n2016__title")
+        .hide();
+    $(".n2016__image")
+        .html("");
+    $(".n2015__image")
+        .html("");
 
     if (id) {
         var new_id = "#" + id;
@@ -103,17 +107,23 @@ function select(d) {
         .attr("class", "selected area")
     // add the area properties to the data_table section
     $(".constituency")
+        .show();
+    $(".constituency")
         .html(nominations[d.id]["constituency"]);
     if (nominations[d.id]["nomination_2016"] != "") {     
-        $(".2016__title")
+        $(".n2016__image")
+            .html("<img src='img/jeremy_corbyn.png'>");
+        $(".n2016__title")
             .show();
-        $(".2016__nomination")
+        $(".n2016__nomination")
             .html(nominations[d.id]["nomination_2016"]);
     }
-    if (nominations[d.id]["nomination_2015"] != "") {     
-        $(".2015__title")
+    if (nominations[d.id]["nomination_2015"] != "") { 
+        $(".n2015__image")
+            .html("<img src='img/jeremy_corbyn.png'>");    
+        $(".n2015__title")
             .show();
-        $(".2015__nomination")
+        $(".n2015__nomination")
             .html(nominations[d.id]["nomination_2015"]);
     }
 }
