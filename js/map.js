@@ -1,18 +1,19 @@
-// get the width of the area we're displaying in
-var width;
-// but we're using the full window height
-var height;
+var width, height;
 
-var nominations;
-
-var leadership_election_year;
+var nominations, leadership_election_year;
 
 // variables for map drawing
 var projection, svg, path, g;
 var boundaries, units;
 
+var zoom = d3.behavior.zoom().scaleExtent([1, 8]).on("zoom", applyZoomAndPan);
+var translate_saved = [0, 0];
+var scale_saved = 1;
+
+var active = d3.select(null);
+
 function compute_size() {
-    var margin = 50;
+    var margin = 100;
     width = parseInt(d3.select("#map").style("width"));
     height = window.innerHeight - 2*margin;
 }
@@ -49,18 +50,23 @@ function init(width, height, id) {
 
     // pretty boring projection
     projection = d3.geo.albers()
-        .rotate([0, 0]);
+      .center([0, 55.4])
+      .rotate([3.4, 0])
+      .parallels([50, 60])
+      .scale(5000)
+      .translate([width / 2, height / 2]);
 
     path = d3.geo.path()
-        .projection(projection);
+      .projection(projection);
 
     // create the svg element for drawing onto
     svg = d3.select(id).append("svg")
         .attr("width", width)
-        .attr("height", height);
+        .attr("height", height)
+        .call(zoom);
 
     // graphics go here
-    g = svg.append("g");
+    g = svg.append("g")
 
     // add a white rectangle as background to enable us to deselect a map selection
     g.append("rect")
@@ -194,6 +200,68 @@ function set_colour_for_area(id, nomination) {
     } else if (nomination === "Owen Smith") {
         d3.select(id).attr("class", "owen");
     }
+}
+
+function applyZoomAndPan() {
+    g.attr("transform", "translate(" + zoom.translate() + ")scale(" + zoom.scale() + ")");
+}
+
+// Zoom and pan transition
+function interpolateZoomAndPan(translate, scale) {
+    translate_saved = translate;
+    scale_saved = scale;
+    var self = this;
+    return d3.transition().duration(350).tween("zoom", function () {
+      var iTranslate = d3.interpolate(zoom.translate(), translate),
+          iScale = d3.interpolate(zoom.scale(), scale);
+      return function (t) {
+        zoom
+          .scale(iScale(t))
+          .translate(iTranslate(t));
+        applyZoomAndPan();
+      };
+    });
+}
+
+// Zoom in and out based on plus or minus button
+function zoomButton() {
+    var clicked = d3.event.target,
+      direction = 1,
+      factor = 0.2,
+      target_zoom = 1,
+      center = [width / 2, height / 2],
+      extent = zoom.scaleExtent(),
+      translate = zoom.translate(),
+      translate0 = [],
+      l = [],
+      view = {x: translate[0], y: translate[1], k: zoom.scale()};
+
+    d3.event.preventDefault();
+    direction = (this.id === 'zoom_in') ? 1 : -1;
+    target_zoom = zoom.scale() * (1 + factor * direction);
+
+    if (target_zoom < extent[0] || target_zoom > extent[1]) { return false; }
+
+    translate0 = [(center[0] - view.x) / view.k, (center[1] - view.y) / view.k];
+    view.k = target_zoom;
+    l = [translate0[0] * view.k + view.x, translate0[1] * view.k + view.y];
+
+    view.x += center[0] - l[0];
+    view.y += center[1] - l[1];
+
+    interpolateZoomAndPan([view.x, view.y], view.k);
+}
+
+// Reset scale and translation
+function resetMapState() {
+    active.classed("active", false);
+    active = d3.select(null);
+
+    svg.transition()
+      .call(zoom.translate([0, 0]).scale(1).event);
+
+    translate_saved = [0, 0];
+    scale_saved = 1;
 }
 
 // loads data from the given file and redraws the map

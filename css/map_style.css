@@ -25,12 +25,14 @@ body {
 .boundary {
     fill: none;
     stroke: #777;
+    stroke-width: 0.5;
 }
 
 .selected {
     fill: #fff;
     stroke: #777;
     stroke-dasharray: 2,2;
+    stroke-width: 0.5;
     stroke-linejoin: round;
 }
 
