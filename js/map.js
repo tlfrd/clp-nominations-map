@@ -5,6 +5,8 @@ var height;
 
 var nominations;
 
+var leadership_election_year;
+
 // variables for map drawing
 var projection, svg, path, g;
 var boundaries, units;
@@ -38,7 +40,7 @@ function deselect(id) {
 
     if (id) {
         var new_id = "#" + id;
-        set_colour_for_area(new_id, nominations[id]["nomination_2015"]);
+        set_colour_for_area(new_id, nominations[id]["nomination_" + leadership_election_year]);
     }
 }
 
@@ -167,9 +169,15 @@ function colour_map() {
 
         for (x in nominations) {
             var id = "#" + x;
-            var nomination_2015 = nominations[x]["nomination_2015"];
 
-            set_colour_for_area(id, nomination_2015);
+            var nomination;
+            if (leadership_election_year === "2015") {
+                nomination = nominations[x]["nomination_2015"];
+            } else if (leadership_election_year === "2016") {
+                nomination = nominations[x]["nomination_2016"];
+            }
+
+            set_colour_for_area(id, nomination);
         }
     });
 }
@@ -183,21 +191,24 @@ function set_colour_for_area(id, nomination) {
         d3.select(id).attr("class", "liz");
     } else if (nomination === "Yvette Cooper") {
         d3.select(id).attr("class", "yvette");
+    } else if (nomination === "Owen Smith") {
+        d3.select(id).attr("class", "owen");
     }
 }
 
 // loads data from the given file and redraws the map
-function load_data(filename, u, id) {
+function load_data(filename, u, id, year) {
     // clear any selection
     deselect();
 
     units = u;
+    leadership_election_year = year;
     var f = filename;
 
     d3.json(f, function(error, b) {
         if (error) return console.error(error);
         boundaries = b;
-        redraw(id);
+        redraw(id, year);
     });    
 }
 

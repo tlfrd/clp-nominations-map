@@ -1,11 +1,8 @@
 
-function change_area(id, area) {
-	console.log(area);
+function change_area(id, area, year) {
+    console.log(year);
+
 	var units = 'clp';
-
-    // var f;
-    // var f = 'json/' + area + '/topo_' + units + '.json';
-
     var f;
 
     if (area === 'uk') {
@@ -20,13 +17,17 @@ function change_area(id, area) {
     	f = 'json/topo_lon.json';
     }
 
-    load_data(f, units, id);
+    load_data(f, units, id, year);
 }
 
-change_area('#map', 'uk');
+change_area('#map', 'uk', $('input[type=radio][name=year]:checked').val());
 
 $(document).ready(function() {
 	$("#area").on('change', function() {
 		change_area('#map', $('#area').val());
 	});
+
+    $('input[type=radio][name=year]').change(function() {
+        change_area('#map', $('#area').val(), this.value);
+    });
 });
