@@ -125,7 +125,7 @@ a {
 @media (max-width: 480px) {
   #choiceform {
     font-size: 12px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.8);
     width: 100px;
     padding: 10px;
     margin-left: -10px;
@@ -230,7 +230,7 @@ a {
   position: absolute;
   top: 25px;
   width: 120px;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 @media (max-width: 480px) {
@@ -267,7 +267,7 @@ a {
 @media (max-width: 480px) {
   .counts {
     font-size: 12px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.8);
     padding: 10px;
   }
 }
