@@ -13,6 +13,25 @@ body {
   width: 100%;
 }
 
+.thanks {
+  float: right;
+  margin-right: 20px;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+@media (max-width: 480px) {
+  .thanks {
+    font-size: 10px;
+    float: left;
+    margin-top: 0;
+  }
+}
+
+a {
+  color: white;
+}
+
 .footer {
   height: 50px;
   background-color: black;
@@ -41,6 +60,14 @@ body {
   font-size: 18px;
   color: white;
   font-weight: 600;
+}
+
+@media (max-width: 480px) {
+  .map-title {
+    font-size: 14px;
+    padding-top: 5px;
+    margin-left: 10px;
+  }
 }
 
 #left_column {
