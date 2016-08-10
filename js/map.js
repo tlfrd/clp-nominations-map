@@ -172,6 +172,8 @@ function draw(boundaries) {
         .attr('class', 'boundary');
 
     colour_map();
+
+    render_key();
 }
 
 // called to redraw the map - removes map completely and starts from scratch
@@ -184,6 +186,18 @@ function redraw(id) {
 
     init(width, height, id);
     draw(boundaries);
+}
+
+function render_key() {
+    var svgKey = d3.select(".key").append("svg")
+                    .attr("width", 200)
+                    .attr("height", 50);
+
+    var circle = svgKey.append("circle")
+                        .attr("cx", 30)
+                        .attr("cy", 30)
+                        .attr("r", 20)
+                        .style("fill", "purple");
 }
 
 function colour_map() {
