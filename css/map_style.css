@@ -20,6 +20,19 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
+  color: white;
+  padding: 10px 0px 20px 20px;
+}
+
+@media (max-width: 480px) {
+  .footer {
+    font-size: 12px;
+  }
+}
+
+.control {
+  display: inline-block;
+  margin-right: 10px;
 }
 
 .map-title {
@@ -35,6 +48,12 @@ body {
     float: left;
     margin-top: 25px;
     position: relative;
+}
+
+@media (max-width: 480px) {
+  #left_column {
+    width: 100%;
+  }
 }
 
 #right_column {
@@ -62,15 +81,20 @@ body {
     stroke-linejoin: round;
 }
 
-#choiceform {
-  position: absolute;
-  right: 100px;
-  bottom: 140px;
+@media (max-width: 480px) {
+  #choiceform {
+    font-size: 12px;
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 130px;
+    padding: 10px;
+    margin-left: -10px;
+  }
 }
 
-#controls {
+#choiceform {
   position: absolute;
-  top: 130px;
+  left: 30px;
+  bottom: 100px;
 }
 
 .n2016 {
@@ -144,6 +168,13 @@ body {
   top: 25px;
   width: 120px;
   background-color: rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 480px) {
+  .key {
+    top: 10px;
+    left: -10px;
+  }
 }
 
 .circles {
