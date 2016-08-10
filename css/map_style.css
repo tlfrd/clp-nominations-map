@@ -94,7 +94,7 @@ body {
   #choiceform {
     font-size: 12px;
     background-color: rgba(0, 0, 0, 0.2);
-    width: 130px;
+    width: 100px;
     padding: 10px;
     margin-left: -10px;
   }
@@ -222,4 +222,20 @@ body {
 
 .candidate {
   margin-bottom: 16px;
+}
+
+.counts {
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  bottom: 100px;
+  right: 30px;
+}
+
+@media (max-width: 480px) {
+  .counts {
+    font-size: 14px;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+  }
 }

@@ -12,6 +12,8 @@ var scale_saved = 1;
 
 var active = d3.select(null);
 
+var count;
+
 function compute_size() {
     var margin = 60;
     width = parseInt(d3.select("#map").style("width"));
@@ -234,17 +236,41 @@ function colour_map() {
         if (error) return console.error(error);
         nominations = n;
 
+        var count = {
+            "Owen Smith": 0,
+            "Jeremy Corbyn": 0,
+            "Liz Kendall": 0,
+            "Yvette Cooper": 0,
+            "Andy Burnham": 0
+        };
+
         for (x in nominations) {
             var id = "#" + x;
 
             var nomination;
             if (leadership_election_year === "2015") {
                 nomination = nominations[x]["nomination_2015"];
+                count[nomination] += 1;
             } else if (leadership_election_year === "2016") {
                 nomination = nominations[x]["nomination_2016"];
+                count[nomination] += 1;
             }
 
             set_colour_for_area(id, nomination);
+        }
+
+        if (leadership_election_year === "2015") {
+            $('.owen-count').html("");
+            $('.jeremy-count').html("Jeremy Corbyn: " + count["Jeremy Corbyn"]);
+            $('.andy-count').html("Andy Burnham: " + count["Andy Burnham"]);
+            $('.yvette-count').html("Yvette Cooper: " + count["Yvette Cooper"]);
+            $('.liz-count').html("Liz Kendall: " + count["Liz Kendall"]);
+        } else if (leadership_election_year === "2016") {
+            $('.andy-count').html("");
+            $('.yvette-count').html("");
+            $('.liz-count').html("");
+            $('.jeremy-count').html("Jeremy Corbyn: " + count["Jeremy Corbyn"]);
+            $('.owen-count').html("Owen Smith: " + count["Owen Smith"]);
         }
     });
 }
