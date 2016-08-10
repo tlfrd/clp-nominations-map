@@ -169,13 +169,14 @@ function redraw(id) {
     //height = window.innerHeight - margin;
 
     d3.select("svg").remove();
+    d3.select("#map").select("svg").remove();
 
     init(width, height, id);
     draw(boundaries);
 }
 
 function render_key() {
-    var svgKey = d3.select("#key").append("svg")
+    var svgKey = d3.select(".circles").append("svg")
                     .attr("width", 30);
 
     var circle1 = svgKey.append("circle")
