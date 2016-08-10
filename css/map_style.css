@@ -141,7 +141,23 @@ body {
 
 .key {
   position: absolute;
-  height: 100px;
-  width: 100px;
-  background-color: black;
+  top: 25px;
+  width: 120px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#key {
+  float: left;
+  width: 30px;
+}
+
+.candidates {
+  margin-top: 12px;
+  padding-left: 10px;
+  float: left;
+  font-size: 10px;
+}
+
+.candidate {
+  margin-bottom: 16px;
 }

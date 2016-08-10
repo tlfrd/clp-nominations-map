@@ -82,19 +82,6 @@ function init(width, height, id) {
         .on('click', deselect);
 }
 
-// create a HTML table to display any properties about the selected item
-function create_table(properties) {
-    var keys = Object.keys(properties);
-
-    table_string = "<table>";
-    table_string += "<th>Property</th><th>Value</th>";
-    for (var i = 0; i < keys.length; i++) {
-        table_string += "<tr><td>" + keys[i] + "</td><td>" + properties[keys[i]] + "</td></tr>";
-    }
-    table_string += "</table>";
-    return table_string;
-}
-
 // select a map area
 function select(d) {
     // get the id of the selected map area
@@ -160,7 +147,6 @@ function draw(boundaries) {
         .enter().append("path")
         .attr("class", "area")
         .attr("id", function(d) {return d.id})
-        .attr("properties_table", function(d) {return create_table(d.properties)})
         .attr("d", path)
         .on("mouseover", function(d) {return select(d)})
         .on("mouseout", function(d) {return deselect(d.id)});
@@ -189,15 +175,55 @@ function redraw(id) {
 }
 
 function render_key() {
-    var svgKey = d3.select(".key").append("svg")
-                    .attr("width", 200)
-                    .attr("height", 50);
+    var svgKey = d3.select("#key").append("svg")
+                    .attr("width", 30);
 
-    var circle = svgKey.append("circle")
-                        .attr("cx", 30)
-                        .attr("cy", 30)
-                        .attr("r", 20)
-                        .style("fill", "purple");
+    var circle1 = svgKey.append("circle")
+                        .attr("cx", 20)
+                        .attr("cy", 20)
+                        .attr("r", 10)
+                        .attr("class", "jeremy");
+
+    $('.candidates')
+        .html("<div class='candidate'>Jeremy Corbyn</div>");
+
+    if (leadership_election_year === '2015') {
+        svgKey.attr("height", 130);
+
+        var circle2 = svgKey.append("circle")
+                            .attr("cx", 20)
+                            .attr("cy", 50)
+                            .attr("r", 10)
+                            .attr("class", "liz");
+        var circle3 = svgKey.append("circle")
+                            .attr("cx", 20)
+                            .attr("cy", 80)
+                            .attr("r", 10)
+                            .attr("class", "yvette");
+        var circle4 = svgKey.append("circle")
+                            .attr("cx", 20)
+                            .attr("cy", 110)
+                            .attr("r", 10)
+                            .attr("class", "andy");
+
+        $('.candidates')
+            .html($('.candidates').html() + 
+                "<div class='candidate'>Liz Kendall</div>" +
+                "<div class='candidate'>Yvette Cooper</div>" +
+                "<div class='candidate'>Andy Burnham</div>");
+
+    } else if (leadership_election_year === '2016') {
+        svgKey.attr("height", 70);
+
+        var circle5 = svgKey.append("circle")
+                            .attr("cx", 20)
+                            .attr("cy", 50)
+                            .attr("r", 10)
+                            .attr("class", "owen");
+        
+        $('.candidates')
+            .html($('.candidates').html() + "<div class='candidate'>Owen Smith</div>");
+    }
 }
 
 function colour_map() {
