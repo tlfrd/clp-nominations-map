@@ -261,7 +261,7 @@ a {
 
 @media (max-width: 480px) {
   .counts {
-    font-size: 14px;
+    font-size: 12px;
     background-color: rgba(0, 0, 0, 0.2);
     padding: 10px;
   }
