@@ -65,7 +65,7 @@ a {
 @media (max-width: 480px) {
   .map-title {
     font-size: 14px;
-    padding-top: 5px;
+    padding-top: 7px;
     margin-left: 10px;
   }
 }
