@@ -13,6 +13,15 @@ body {
   width: 100%;
 }
 
+.footer {
+  height: 50px;
+  background-color: black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
 .map-title {
   padding: 10px;
   margin-left: 20px;
@@ -22,9 +31,9 @@ body {
 }
 
 #left_column {
-    width: 70%;
+    width: 60%;
     float: left;
-    margin-top: 50px;
+    margin-top: 25px;
     position: relative;
 }
 
@@ -55,13 +64,13 @@ body {
 
 #choiceform {
   position: absolute;
-  left: 0;
-  top: 0;
+  right: 100px;
+  bottom: 140px;
 }
 
 #controls {
   position: absolute;
-  top: 90px;
+  top: 130px;
 }
 
 .n2016 {
@@ -82,7 +91,7 @@ body {
 
 .n2015__image img,
 .n2016__image img {
-  width: 100%;
+  width: 50px;
 }
 
 .n2015__info,
@@ -104,23 +113,23 @@ body {
 }
 
 .jeremy {
-  fill: #AA4639;
+  fill: #CE7DA5;
 }
 
 .andy {
-  fill: #AAA339;
+  fill: #FFD1BA;
 }
 
 .yvette {
-  fill: #4F2C73;
+  fill: #493657;
 }
 
 .owen {
-  fill: #2A7F40;
+  fill: #BEE5BF;
 }
 
 .liz {
-  fill: #91A7D0;
+  fill: #DFF3E3;
 }
 
 .constituency {

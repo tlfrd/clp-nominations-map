@@ -13,7 +13,7 @@ var scale_saved = 1;
 var active = d3.select(null);
 
 function compute_size() {
-    var margin = 60;
+    var margin = 50;
     width = parseInt(d3.select("#map").style("width"));
     height = window.innerHeight - 2*margin;
 }
