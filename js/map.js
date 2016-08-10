@@ -110,21 +110,31 @@ function select(d) {
         .show();
     $(".constituency")
         .html(nominations[d.id]["constituency"]);
-    if (nominations[d.id]["nomination_2016"] != "") {     
+    if (nominations[d.id]["nomination_2016"] != "") {  
+       $(".n2016")
+            .show();   
         $(".n2016__image")
-            .html("<img src='img/jeremy_corbyn.png'>");
+            .html("<img src='img/" + image_url_from_string(nominations[d.id]["nomination_2016"]) + ".png'>");
         $(".n2016__title")
             .show();
         $(".n2016__nomination")
             .html(nominations[d.id]["nomination_2016"]);
+    } else {
+        $(".n2016")
+            .hide();
     }
     if (nominations[d.id]["nomination_2015"] != "") { 
+       $(".n2015")
+            .show();     
         $(".n2015__image")
-            .html("<img src='img/jeremy_corbyn.png'>");    
+            .html("<img src='img/" + image_url_from_string(nominations[d.id]["nomination_2015"]) + ".png'>");    
         $(".n2015__title")
             .show();
         $(".n2015__nomination")
             .html(nominations[d.id]["nomination_2015"]);
+    } else {
+       $(".n2015")
+            .hide();  
     }
 }
 
@@ -272,6 +282,20 @@ function resetMapState() {
 
     translate_saved = [0, 0];
     scale_saved = 1;
+}
+
+function image_url_from_string(candidate) {
+    if (candidate === 'Jeremy Corbyn') {
+        return 'jeremy_corbyn';
+    } else if (candidate === 'Owen Smith') {
+        return 'owen_smith';
+    } else if (candidate === 'Yvette Cooper') {
+        return 'yvette_cooper';
+    } else if (candidate === 'Andy Burnham') {
+        return 'andy_burnham';
+    } else if (candidate === 'Liz Kendall') {
+        return 'liz_kendall';
+    }
 }
 
 // loads data from the given file and redraws the map
